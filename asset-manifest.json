@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.1da2e8f5.css",
+    "main.css": "/static/css/main.62aec1de.css",
     "main.js": "/static/js/main.bd64dd70.js",
     "static/js/787.2db9837c.chunk.js": "/static/js/787.2db9837c.chunk.js",
     "static/media/sepp-hi.png": "/static/media/sepp-hi.42c4335014a058530c0f.png",
@@ -11,12 +11,12 @@
     "static/media/Sepp01.png": "/static/media/Sepp01.df6f8b208b4b5f2fbc09.png",
     "static/media/sepp-logo.png": "/static/media/sepp-logo.c4a5bf679ae1437dd85f.png",
     "index.html": "/index.html",
-    "main.1da2e8f5.css.map": "/static/css/main.1da2e8f5.css.map",
+    "main.62aec1de.css.map": "/static/css/main.62aec1de.css.map",
     "main.bd64dd70.js.map": "/static/js/main.bd64dd70.js.map",
     "787.2db9837c.chunk.js.map": "/static/js/787.2db9837c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1da2e8f5.css",
+    "static/css/main.62aec1de.css",
     "static/js/main.bd64dd70.js"
   ]
 }
