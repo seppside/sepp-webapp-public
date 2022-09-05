@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.62aec1de.css",
+    "main.css": "/static/css/main.831c0a17.css",
     "main.js": "/static/js/main.d5b7eadf.js",
     "static/js/787.2db9837c.chunk.js": "/static/js/787.2db9837c.chunk.js",
     "static/media/sepp-hi.png": "/static/media/sepp-hi.42c4335014a058530c0f.png",
@@ -9,14 +9,19 @@
     "static/media/sepp-ok-small.png": "/static/media/sepp-ok-small.f7532517d21bbd340184.png",
     "static/media/sepp-faq-small.png": "/static/media/sepp-faq-small.0ffbf54e3fd2609e5ae2.png",
     "static/media/Sepp01.png": "/static/media/Sepp01.df6f8b208b4b5f2fbc09.png",
+    "static/media/caveat-v17-latin-regular.svg": "/static/media/caveat-v17-latin-regular.4a1d0313a82f8a877776.svg",
+    "static/media/caveat-v17-latin-regular.ttf": "/static/media/caveat-v17-latin-regular.d27fc11fde552a5be0cc.ttf",
+    "static/media/caveat-v17-latin-regular.woff": "/static/media/caveat-v17-latin-regular.febfb6aded5917522fb9.woff",
+    "static/media/caveat-v17-latin-regular.eot": "/static/media/caveat-v17-latin-regular.c047b1c3120cb28f156a.eot",
+    "static/media/caveat-v17-latin-regular.woff2": "/static/media/caveat-v17-latin-regular.55cab6ba3aa4b692a421.woff2",
     "static/media/sepp-logo.png": "/static/media/sepp-logo.c4a5bf679ae1437dd85f.png",
     "index.html": "/index.html",
-    "main.62aec1de.css.map": "/static/css/main.62aec1de.css.map",
+    "main.831c0a17.css.map": "/static/css/main.831c0a17.css.map",
     "main.d5b7eadf.js.map": "/static/js/main.d5b7eadf.js.map",
     "787.2db9837c.chunk.js.map": "/static/js/787.2db9837c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.62aec1de.css",
+    "static/css/main.831c0a17.css",
     "static/js/main.d5b7eadf.js"
   ]
 }
