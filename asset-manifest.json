@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.831c0a17.css",
-    "main.js": "/static/js/main.4c56a1fb.js",
+    "main.css": "/static/css/main.7cb3c477.css",
+    "main.js": "/static/js/main.3c33aea1.js",
     "static/js/787.2db9837c.chunk.js": "/static/js/787.2db9837c.chunk.js",
     "static/media/sepp-hi.png": "/static/media/sepp-hi.42c4335014a058530c0f.png",
     "static/media/sepp-ok.png": "/static/media/sepp-ok.e24cf8d602cff36eda3b.png",
@@ -9,19 +9,20 @@
     "static/media/sepp-ok-small.png": "/static/media/sepp-ok-small.f7532517d21bbd340184.png",
     "static/media/sepp-faq-small.png": "/static/media/sepp-faq-small.0ffbf54e3fd2609e5ae2.png",
     "static/media/Sepp01.png": "/static/media/Sepp01.df6f8b208b4b5f2fbc09.png",
-    "static/media/caveat-v17-latin-regular.svg": "/static/media/caveat-v17-latin-regular.4a1d0313a82f8a877776.svg",
-    "static/media/caveat-v17-latin-regular.ttf": "/static/media/caveat-v17-latin-regular.d27fc11fde552a5be0cc.ttf",
-    "static/media/caveat-v17-latin-regular.woff": "/static/media/caveat-v17-latin-regular.febfb6aded5917522fb9.woff",
-    "static/media/caveat-v17-latin-regular.eot": "/static/media/caveat-v17-latin-regular.c047b1c3120cb28f156a.eot",
-    "static/media/caveat-v17-latin-regular.woff2": "/static/media/caveat-v17-latin-regular.55cab6ba3aa4b692a421.woff2",
-    "static/media/sepp-logo.png": "/static/media/sepp-logo.c4a5bf679ae1437dd85f.png",
+    "static/media/guide-5.jpg": "/static/media/guide-5.a28e585a7234a10b3e44.jpg",
+    "static/media/guide-2.jpg": "/static/media/guide-2.476bc4d37482b266c726.jpg",
+    "static/media/guide-4.jpg": "/static/media/guide-4.b540203d9930f0210a10.jpg",
+    "static/media/guide-6.jpg": "/static/media/guide-6.10288f170cdcbdda563d.jpg",
+    "static/media/guide-3.jpg": "/static/media/guide-3.135edb828911d1971449.jpg",
+    "static/media/guide-1.jpg": "/static/media/guide-1.ea19272b72283cdf695d.jpg",
+    "static/media/sepp-logo.png": "/static/media/sepp-logo.c9c18ec4a70acdc75bd1.png",
     "index.html": "/index.html",
-    "main.831c0a17.css.map": "/static/css/main.831c0a17.css.map",
-    "main.4c56a1fb.js.map": "/static/js/main.4c56a1fb.js.map",
+    "main.7cb3c477.css.map": "/static/css/main.7cb3c477.css.map",
+    "main.3c33aea1.js.map": "/static/js/main.3c33aea1.js.map",
     "787.2db9837c.chunk.js.map": "/static/js/787.2db9837c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.831c0a17.css",
-    "static/js/main.4c56a1fb.js"
+    "static/css/main.7cb3c477.css",
+    "static/js/main.3c33aea1.js"
   ]
 }
