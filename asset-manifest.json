@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.160337bb.css",
-    "main.js": "/static/js/main.c0282f19.js",
+    "main.js": "/static/js/main.d90a0de0.js",
     "static/js/787.2db9837c.chunk.js": "/static/js/787.2db9837c.chunk.js",
     "static/media/sepp-faq.png": "/static/media/sepp-faq.2fc845601ebeccfa3719.png",
     "static/media/sepp-ok.png": "/static/media/sepp-ok.fe2986c5250ffe17e233.png",
@@ -20,11 +20,11 @@
     "static/media/sepp-logo.png": "/static/media/sepp-logo.c9c18ec4a70acdc75bd1.png",
     "index.html": "/index.html",
     "main.160337bb.css.map": "/static/css/main.160337bb.css.map",
-    "main.c0282f19.js.map": "/static/js/main.c0282f19.js.map",
+    "main.d90a0de0.js.map": "/static/js/main.d90a0de0.js.map",
     "787.2db9837c.chunk.js.map": "/static/js/787.2db9837c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.160337bb.css",
-    "static/js/main.c0282f19.js"
+    "static/js/main.d90a0de0.js"
   ]
 }
